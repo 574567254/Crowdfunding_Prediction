@@ -10,5 +10,5 @@ Steps:
   2.  Develop a clustering model (i.e., an unsupervised-learning model which can group observations together) to group projects together.
  
 The dataset in this project is scraped from Kickstarter, which is a popular crowdfunding platform. 
-#### See Crowdfunding Prediction Jupyter Notebook for detailed analysis
-#### All the external data used in our project are in the data_used folder
+#### See [Crowdfunding Prediction](https://github.com/574567254/Crowdfunding_Prediction/blob/31135a7a4a3f33a0ce2fa234ac64e5afb3eb3cc5/Crowdfunding_Prediction.ipynb) Jupyter Notebook for detailed analysis
+#### All the external data used in this project can be seen at [Kickstarter.xlsx](https://github.com/574567254/Crowdfunding_Prediction/blob/31135a7a4a3f33a0ce2fa234ac64e5afb3eb3cc5/Kickstarter.xlsx)
